@@ -1,0 +1,17 @@
+color=input("enter any color: " )
+name=input("enter any name: ")
+hobby=input("enter any hobby: " )
+place=input("enter any place: " )
+anything=input("enter anything: " )
+
+story=(f"Sky is {color}. "+
+      f"what is your {name}. "+
+      f"My hobby is {hobby}. "+
+      f"My dream school is in {place}. "+
+      f"I want to visit {anything} just once")
+
+print("\n")
+print("\n")
+print("\n")
+
+print(story)
